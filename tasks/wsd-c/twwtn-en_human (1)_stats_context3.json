@@ -1,0 +1,86 @@
+{
+  "context_size": 3,
+  "start_time": "2026-01-31T14:22:00.678217",
+  "processed_sentences": 4,
+  "total_concepts": 270,
+  "tag_counts": {
+    "x": 5,
+    "per": 5,
+    "w": 1
+  },
+  "sentiments": [
+    -34.0,
+    -34.0,
+    -64.0,
+    -34.0,
+    -34.0,
+    -64.0
+  ],
+  "non_zero_sentiments": 6,
+  "per_sentence": {
+    "110001": {
+      "sid": 110001,
+      "context_sentences": 10,
+      "context_words": 184,
+      "concept_count": 2,
+      "tags": [
+        "x",
+        "per"
+      ],
+      "sentiments": [
+        -34.0
+      ]
+    },
+    "110002": {
+      "sid": 110002,
+      "context_sentences": 14,
+      "context_words": 270,
+      "concept_count": 2,
+      "tags": [
+        "per",
+        "w"
+      ],
+      "sentiments": [
+        -34.0,
+        -64.0
+      ]
+    },
+    "110005": {
+      "sid": 110005,
+      "context_sentences": 16,
+      "context_words": 300,
+      "concept_count": 2,
+      "tags": [
+        "x",
+        "x"
+      ],
+      "sentiments": []
+    },
+    "110006": {
+      "sid": 110006,
+      "context_sentences": 16,
+      "context_words": 300,
+      "concept_count": 5,
+      "tags": [
+        "x",
+        "x",
+        "per",
+        "per",
+        "per"
+      ],
+      "sentiments": [
+        -34.0,
+        -34.0,
+        -64.0
+      ]
+    }
+  },
+  "end_time": "2026-01-31T15:07:21.446558",
+  "sentiment_stats": {
+    "mean": -44.0,
+    "median": -34.0,
+    "min": -64.0,
+    "max": -34.0,
+    "count_non_zero": 6
+  }
+}
